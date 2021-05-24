@@ -1,0 +1,154 @@
+.body{
+    text-align: center;
+}
+
+.parrafo1{
+
+   font-size: 30px;
+    text-align: center;
+   font-family:Rockwell;
+   margin: 50px;
+}
+*{
+    box-sizing: border-box;
+}
+.bloque1{
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin: 30px;
+    padding-top: 27px;
+    text-align: center;
+    font-family:Century Schoolbook ;
+    color: rgb(180, 102, 102);
+    background-color: black;
+}
+.parrafo2{
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    margin-top: 27px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+.video1{
+    padding-bottom:35px ;
+}
+.bloque2{
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin: 30px;
+    padding-top: 35px;
+    text-align: justify;
+    font-family:Century Schoolbook ;
+    color:rgb(180, 102, 102) ;
+    background-image:url(../imagenes/imagen7.jpg);
+}
+.parrafo3 ul{
+
+text-align: justify;
+margin-top: 27;
+font-size: 30px;
+}
+.parrafo3 li{
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-top: 27px;
+
+}
+.parrafo3 ul a{
+
+    display:block;
+    padding: -5px;
+    color: black;
+    padding-top: 2px;
+    font-family:Rockwell ;
+    
+  
+}
+.bloque4{
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin: 30px;
+    padding-top: 27px;
+    text-align: center;
+    font-family:Century Schoolbook ;
+    color: rgb(180, 102, 102);
+    background-color: black;
+    margin-top: 30px;
+}
+.parrafo4{
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    margin-top: 27px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+    
+}
+.bloque5{
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin: 10px;
+    padding-top: 27px;
+    text-align: center;
+    font-family:Century Schoolbook ;
+    color: rgb(180, 102, 102);
+    background-color: black;
+}
+.parrafo5{
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    margin-top: 27px;
+    text-align: center;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+.parrafo7{
+    font-family:Century Schoolbook ;
+    margin-top: 20px;
+    font-size: 18px;
+    background-color: whitesmoke;
+    padding-top: 15px;
+    padding-left: 80px;
+    padding: 15px;
+}
+.formulario{
+    background-color: black;
+    color:rgb(173, 116, 116);
+    font-size:18px ;
+    padding-top: 300px;
+    padding-left: 100px;
+    padding: 80px;
+    display: inline-flex;
+    z-index: 101px;
+   
+}
+.n1{
+    padding-top: 15px;
+    font-size: 20px;
+    font-family:Lucida Console ;
+
+}
+.n2{
+    padding-top: 15px;
+    padding-left: 60px;
+    font-size: 20px;
+    font-family:Lucida Console 
+
+}
+.n3{
+    padding-top: 15px;
+    padding-left: 60px;
+    font-size: 20px;
+   font-family:Lucida Console 
+}
+.linea{
+    margin-top: 15px;
+}
+.estudiante{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
